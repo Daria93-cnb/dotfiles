@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = daria.cnb@gmail.com
+	name = Daria Potopnic
